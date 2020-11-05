@@ -1,0 +1,3 @@
+[submodule "some_project"]
+	path = some_project
+	url = https://github.com/erez12/some_project.git
